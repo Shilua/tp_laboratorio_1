@@ -39,9 +39,14 @@ int main()
         printf("7- Calcular el factorial (A!)\n");
         printf("8- Calcular todas las operacione\n");
         printf("9- Salir\n");
-
+        printf("Elija la una de las opciones (1 - 9)\n");
         scanf("%d",&opcion);
-
+        
+        while(opcion < 1 || opcion > 9)
+        {
+            printf("Error. Elija una de las opciones (1 - 9)\n");
+            scanf("%d",&opcion);
+        }
 
 
         switch(opcion)
