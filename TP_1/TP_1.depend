@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1504358830 source:/home/shilua/Descargas/TP_1_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504276868 /home/shilua/Descargas/TP_1_Cascara/funciones.h
+
+1504280175 source:/home/shilua/Descargas/TP_1_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504362774 source:c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504359579 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1504359737 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504464546 source:c:\users\shilua\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504463182 c:\users\shilua\desktop\tp_1_cascara\funciones.h
+
+1504464527 source:c:\users\shilua\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504833145 source:c:\users\shilua\desktop\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504833871 c:\users\shilua\desktop\tp_1\funciones.h
+
+1504832391 source:c:\users\shilua\desktop\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
