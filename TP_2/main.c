@@ -11,7 +11,6 @@ int main()
 {
     char seguir='s';
     int opcion=0;
-    char sigue;
     ePersona listaDePersonas[TAM];
     int auxInt;
     int i;
