@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1505835851 source:/home/shilua/Documentos/TP_2_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1505839199 /home/shilua/Documentos/TP_2_Cascara/funciones.h
+
+1505839217 source:/home/shilua/Documentos/TP_2_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506111998 source:c:\users\shilua\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1506110238 c:\users\shilua\desktop\tp_2_cascara\funciones.h
+
+1506110594 source:c:\users\shilua\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
