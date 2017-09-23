@@ -117,7 +117,7 @@ void mostrarPersonas(ePersona lista[], int tam)
             }
         }
     }
-    printf("Nombre\ Edad\ D.N.I.");
+    printf("Nombre--Edad-- D.N.I.");
     for (i = 0; i<tam; i++)
     {
         if(lista[i].estado == 1)
@@ -169,26 +169,26 @@ void grafico(ePersona lista[], int tam)
         {
             printf("*");
         }
-      
+
         if(i<= auxHasta35)
-         {
+        {
             flag=1;
             printf("\t*");
-         }
+        }
         if(i<= auxMas35)
-         {
+        {
             if(flag == 0)
-             {
+            {
                 printf("\t\t*");
-             }
-             if (flag == 1)
-             {
-                printf("\t*");
-             }
-              printf("\n");  
             }
-        
-        
-        printf("\n<18\t19-35\t>35\n");
+            if (flag == 1)
+            {
+                printf("\t*");
+            }
+
+        }
+
+        printf("\n");
     }
+    printf("\n<18\t19-35\t>35\n");
 }
