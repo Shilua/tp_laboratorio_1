@@ -95,6 +95,7 @@ int al_deleteArrayList(ArrayList* this)
 
     if(this != NULL)
     {
+        free(this->pElements);
         free(this);
         returnAux = 0;
     }
